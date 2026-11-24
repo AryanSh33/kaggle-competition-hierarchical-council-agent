@@ -1,0 +1,10 @@
+# Kaggle Rules forbid redistributing Competition Data: keep data and run artifacts out of git.
+data/
+oof/
+preds/
+subs/
+logs/
+work/
+.venv/
+__pycache__/
+*.pyc
